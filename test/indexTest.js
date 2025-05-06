@@ -1,3 +1,9 @@
+const {
+  scuberGreetingForFeet,
+  ternaryCheckCity,
+  switchOnCharmFromTip
+} = require('../index.js');
+
 require ( './helpers.js' );
 
 describe('index.js', function () {
